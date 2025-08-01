@@ -1,0 +1,34 @@
+{
+  "project_summary": {
+    "title": "Autonomous Traffic Flow Simulation",
+    "description": "A four-member student group tasked with researching traffic flow algorithms, drafting a planning & design report, and building a corresponding simulation scenario with code. Toward the end of the project, a dispute investigation panel is convened after concerns arise about one member’s level of contribution."
+  },
+  "evidence": [
+    {
+      "type": "Meeting Minutes",
+      "timestamp": "2025-04-10T14:00:00Z",
+      "content": "Attendees: Alice, Ben, Cara, Dorian\nAgenda:\n • Review design report outline (Alice)\n • Assign simulation modules (Ben)\n • Code integration plan (Cara)\n • Action items recap\n\nAction Items:\n 1. Alice to draft Intro & Literature Review (due 2025-04-15)\n 2. Ben to model traffic generator (due 2025-04-16)\n 3. Cara to define simulation parameters (due 2025-04-17)\n 4. Dorian to set up repository & CI pipeline (due 2025-04-14)\n\nNotes: Dorian joined 10 minutes late and did not take any additional notes."
+    },
+    {
+      "type": "Chat Transcript",
+      "timestamp": "2025-04-12T09:15:00Z",
+      "content": "[09:15] Alice: Hey team, CI pipeline repo is uninitialized—Dorian, can you push the config?\n[09:17] Dorian: Sorry, been swamped. I’ll try to do it by end of day.\n[17:45] Ben: Checking in—any update on CI setup?\n[17:47] Dorian: Will get to it tomorrow.\n[Next day none of the tasks assigned to Dorian appear in the chat transcript after this point.]"
+    },
+    {
+      "type": "Email Exchange",
+      "timestamp": "2025-04-15T17:30:00Z",
+      "content": "From: Alice <alice@university.edu>\nTo: Dorian <dorian@university.edu>\nSubject: CI Pipeline Config Reminder\n\nHi Dorian,\n\nJust following up on the CI pipeline setup you committed to in our meeting and chat. The rest of the group is blocked without it. Could you please share the repo link or config file by tomorrow?\n\nThanks,\nAlice"
+    },
+    {
+      "type": "Discussion Log",
+      "timestamp": "2025-04-20T11:05:00Z",
+      "content": "In shared Design_Report.docx comments:\n\n[Comment by Ben, 2025-04-18T10:12] ‘Section 3.2 needs algorithm pseudocode—Cara, can you add?’\n[Comment by Cara, 2025-04-18T12:30] ‘Adding pseudocode now.’\n[Comment by Alice, 2025-04-19T08:45] ‘I’ve updated the literature table.’\n[Comment by Ben, 2025-04-19T09:15] ‘Looks good.’\n[No comments or replies by Dorian appear in this document’s revision history.]"
+    },
+    {
+      "type": "Partial Code Draft",
+      "timestamp": "2025-04-22T14:20:00Z",
+      "content": "// simulation_ci_setup.py  —  Author: Dorian\n# Stub for CI configuration\n\ndef setup_ci_pipeline():\n    # TODO: implement automated build & test steps\n    pass\n"
+    }
+  ],
+  "hidden_imbalance_hint": "Note that Dorian’s only code contribution is an empty stub function and he consistently misses assigned tasks (see meeting minutes and chat transcript)."
+}
